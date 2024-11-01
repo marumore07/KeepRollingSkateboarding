@@ -1,2 +1,1 @@
-# KeepRollingSkateboarding
-Mi primer proyecto de carrito de compras
+Este sitio web es un carrito de compras de una tienda con productos para los amantes del skate o longboard en la que vas a poder a encontrar todo lo necesario para seguir patinando, desde tablas, protecciones, remeras y muchos más.
